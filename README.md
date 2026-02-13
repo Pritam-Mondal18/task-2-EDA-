@@ -120,6 +120,3 @@ Key Features:
 
 ---
 
-## 🚀 How to Run This Project
-
-1. Clone the repository:
